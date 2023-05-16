@@ -1,0 +1,244 @@
+{
+  "data": [
+    {
+      "age": "6 months",
+      "color": "Orange",
+      "description": "This would be a long description about the pet",
+      "gender": "Female",
+      "image_url": "https://i.pinimg.com/564x/1d/8a/51/1d8a51cd76a9cd21656b145d2b2262a2.jpg",
+      "is_adopted": false,
+      "name": "Takemichi",
+      "owner": {
+        "name": "Hinata",
+        "image_url": "https://img.freepik.com/free-photo/impressed-young-sporty-woman-wearing-tshirt-looking-camera-showing-chinese-fist-palm-greeting-gesture-with-wrist-wrapped-with-bandage-isolated-orange-background_141793-135156.jpg?t=st=1682483732~exp=1682484332~hmac=c3aa1452ddcb2349a89cbfa7fc3977202dc2f64817d126183aa2dd65509d780b"
+      },
+      "price": 399.99,
+      "type": "cat"
+    },
+    {
+      "age": "9 months",
+      "color": "Brown",
+      "description": "This would be a long description about the pet",
+      "gender": "Female",
+      "image_url": "https://i.pinimg.com/564x/9b/60/b6/9b60b6826b204b7ec59ffb4908bede48.jpg",
+      "is_adopted": false,
+      "name": "Romeo",
+      "owner": {
+        "name": "Harsh",
+        "image_url": "https://img.freepik.com/free-photo/pleased-holding-cleaning-agent-with-cleaning-brush-young-africanamerican-cleaner-male-uniform-with-gloves-isolated-green-background_141793-139944.jpg"
+      },
+      "price": 349.99,
+      "type": "dog"
+    },
+    {
+      "age": "9 months",
+      "color": "Red",
+      "description": "This would be a long description about the pet",
+      "gender": "Male",
+      "image_url": "https://i.pinimg.com/564x/bc/89/97/bc899756c623d67b4f25838c9278b2b0.jpg",
+      "is_adopted": false,
+      "name": "Error Singh",
+      "owner": {
+        "name": "Coder Bunny",
+        "image_url": "https://img.freepik.com/free-photo/side-view-young-stylish-man-jeans-using-mobile-phone-isolated-white-wall_231208-12222.jpg?w=1800&t=st=1682483637~exp=1682484237~hmac=82957db55c00cbafc3bd7600d76a048ac4bee6c062c37e6cef0d8b1a5d465665"
+      },
+      "price": 349.99,
+      "type": "dog"
+    },
+    {
+      "age": "2 months",
+      "color": "Black",
+      "description": "This would be a long description about the pet",
+      "gender": "Male",
+      "image_url": "https://i.pinimg.com/564x/b6/9b/f7/b69bf7fdc2890e499986db72811e8b60.jpg",
+      "is_adopted": true,
+      "name": "Demo",
+      "owner": {
+        "name": "Rocco",
+        "image_url": "https://img.freepik.com/free-photo/smiling-purposeful-young-businessman-with-credit-card-looking-aside_1262-14419.jpg?w=1800&t=st=1682483658~exp=1682484258~hmac=83d2b079c4a8563881db04b7e47793665f5e74e61aac1fbd65ea0b0a8df7fe82"
+      },
+      "price": 349.99,
+      "type": "cat"
+    },
+    {
+      "age": "2 months",
+      "color": "Black",
+      "description": "This would be a long description about the pet",
+      "gender": "Male",
+      "image_url": "https://i.pinimg.com/564x/b6/9b/f7/b69bf7fdc2890e499986db72811e8b60.jpg",
+      "is_adopted": true,
+      "name": "Demo",
+      "owner": {
+        "name": "Rocco",
+        "image_url": "https://img.freepik.com/free-photo/smiling-purposeful-young-businessman-with-credit-card-looking-aside_1262-14419.jpg?w=1800&t=st=1682483658~exp=1682484258~hmac=83d2b079c4a8563881db04b7e47793665f5e74e61aac1fbd65ea0b0a8df7fe82"
+      },
+      "price": 349.99,
+      "type": "cat"
+    },
+    {
+      "age": "7 months",
+      "color": "Brown",
+      "description": "This would be a long description about the pet",
+      "gender": "Male",
+      "image_url": "https://i.pinimg.com/564x/df/6a/22/df6a22035b4a950f402aa4aca1a7c28f.jpg",
+      "is_adopted": false,
+      "name": "Pakkun",
+      "owner": {
+        "name": "Kakashi",
+        "image_url": "https://img.freepik.com/free-photo/delivery-man-employee-red-cap-blank-tshirt-uniform-holding-smartphone-texting-message-smiling-cheerfully-standing-blue-background_141793-140438.jpg"
+      },
+      "price": 339.99,
+      "type": "cat"
+    },
+    {
+      "age": "2 months",
+      "color": "Golden",
+      "description": "This would be a long description about the pet",
+      "gender": "Female",
+      "image_url": "https://i.pinimg.com/736x/bb/ca/b0/bbcab0153ea6e96ed5b075ffae3ccbd4.jpg",
+      "is_adopted": false,
+      "name": "Karl",
+      "owner": {
+        "name": "Chandler",
+        "image_url": "https://img.freepik.com/free-photo/cool-bearded-business-man-protective-helmet-holding-crossed-arms_171337-4995.jpg?w=1800&t=st=1682483672~exp=1682484272~hmac=125954d8100dae995c035db6e4bfc295d85414e5650b4fa501892d9537cc1a0c"
+      },
+      "price": 349.99,
+      "type": "dog"
+    },
+    {
+      "age": "5 months",
+      "color": "Brown",
+      "description": "This would be a long description about the pet",
+      "gender": "Male",
+      "image_url": "https://i.pinimg.com/736x/ad/ef/b5/adefb525400ff9631cbfcd2a4ca5b781.jpg",
+      "is_adopted": false,
+      "name": "Tommy",
+      "owner": {
+        "name": "Jimmy",
+        "image_url": "https://img.freepik.com/free-photo/waist-up-portrait-handsome-serious-unshaven-male-keeps-hands-together-dressed-dark-blue-shirt-has-talk-with-interlocutor-stands-against-white-wall-self-confident-man-freelancer_273609-16320.jpg?w=1800&t=st=1682483579~exp=1682484179~hmac=d3528d5f6878ba1ef1a7e9d02afb8124b1872f64fdb6bcf9b350d3979fed29f9"
+      },
+      "price": 349.99,
+      "type": "dog"
+    },
+    {
+      "age": "3 months",
+      "color": "Golden",
+      "description": "This would be a long description about the pet",
+      "gender": "Female",
+      "image_url": "https://i.pinimg.com/564x/8c/4a/51/8c4a51e005629a084505649079b0a949.jpg",
+      "is_adopted": false,
+      "name": "Rishu",
+      "owner": {
+        "name": "Sujata",
+        "image_url": "https://img.freepik.com/free-photo/delivery-woman-employee-red-cap-blank-tshirt-uniform-holding-food-containers-looking-aside-being-dissapointed-frowning-standing-brown-background_141793-140214.jpg"
+      },
+      "price": 300.99,
+      "type": "cat"
+    },
+    {
+      "age": "4 months",
+      "color": "Golden",
+      "description": "This would be a long description about the pet",
+      "gender": "Female",
+      "image_url": "https://i.pinimg.com/736x/02/9b/db/029bdbf1a034c2f2cb3a1f4d47462d61.jpg",
+      "is_adopted": false,
+      "name": "Timber",
+      "owner": {
+        "name": "Naruto",
+        "image_url": "https://img.freepik.com/free-photo/sporty-beautiful-woman-sportswear-with-headphones-talking-mobile-phone-looking-confident-intrigued-standing-orange-background_141793-140256.jpg"
+      },
+      "price": 349.99,
+      "type": "dog"
+    },
+    {
+      "age": "5 months",
+      "color": "Black",
+      "description": "This would be a long description about the pet",
+      "gender": "Female",
+      "image_url": "https://i.pinimg.com/564x/74/5e/25/745e25baa8171ece2679a750b36cf70a.jpg",
+      "is_adopted": false,
+      "name": "Chris",
+      "owner": {
+        "name": "Jimmy",
+        "image_url": "https://img.freepik.com/free-photo/portrait-happy-handsome-young-man-suit-posing-isolated-background_1150-63655.jpg?w=826&t=st=1682483685~exp=1682484285~hmac=cf79d4f646285684633e67204aa49a1eee769ea26c749e66d80991846945ba0d"
+      },
+      "price": 349.99,
+      "type": "cat"
+    },
+    {
+      "age": "10 months",
+      "color": "Peach",
+      "description": "This would be a long description about the pet",
+      "gender": "Male",
+      "image_url": "https://i.pinimg.com/564x/a3/d0/be/a3d0be251d510326d933f66740721c21.jpg",
+      "is_adopted": false,
+      "name": "Draken",
+      "owner": {
+        "name": "Mikey",
+        "image_url": "https://img.freepik.com/free-photo/confident-young-caucasian-girl-green-shirt-shows-time-out-gesture-isolated-orange-background_141793-34344.jpg?t=st=1682483753~exp=1682484353~hmac=33c635ea01c85385bc76a2640e48e6947d0a116770eec4f3b7b62db1da239e1d"
+      },
+      "price": 344.99,
+      "type": "dog"
+    },
+    {
+      "age": "1 year",
+      "color": "Black",
+      "description": "This would be a long description about the pet",
+      "gender": "Male",
+      "image_url": "https://i.pinimg.com/564x/7e/3f/4c/7e3f4c60496ce171c102fd2bea7013ce.jpg",
+      "is_adopted": false,
+      "name": "Heeru",
+      "owner": {
+        "name": "Rishabh",
+        "image_url": "https://img.freepik.com/free-photo/bearded-man-casual-clothes-wearing-glasses-talking-mobile-phone-holding-cup-coffee-happy-excited-laughing-out-standing-orange-background_141793-140470.jpg"
+      },
+      "price": 444.99,
+      "type": "dog"
+    },
+    {
+        "age": "1 month",
+        "color": "Red",
+        "description": "This would be a long description about the pet",
+        "gender": "Female",
+        "image_url": "https://i.pinimg.com/564x/21/95/2e/21952ee007c8f9a88475e4c18665acc0.jpg",
+        "is_adopted": false,
+        "name": "Bullet",
+        "owner": {
+          "name": "Ramesh",
+          "image_url": "https://img.freepik.com/free-photo/delivery-woman-employee-blank-polo-shirt-uniform-wearing-glasses-holding-food-containers-lookingat-camera-happy-positive-smiling-cheerfully-standing-blue-background_141793-140232.jpg"
+        },
+        "price": 999.99,
+        "type": "cat"
+      },
+      {
+        "age": "2 years",
+        "color": "Brown",
+        "description": "This would be a long description about the pet",
+        "gender": "Female",
+        "image_url": "https://i.pinimg.com/564x/c3/1e/4b/c31e4ba9b508c16973ce551cf84470ec.jpg",
+        "is_adopted": false,
+        "name": "Sheru",
+        "owner": {
+          "name": "Jimmy",
+          "image_url": "https://img.freepik.com/free-photo/handsome-business-man-wearing-suit-looking-aside-with-pensive-expression-standing-white-background_141793-54108.jpg?t=st=1682483672~exp=1682484272~hmac=3469cfded238015c0ccceb2746950d7905278cbf9d25925e927024abb19dbb8a"
+        },
+        "price": 549.99,
+        "type": "dog"
+      },
+      {
+        "age": "8 months",
+        "color": "Pink",
+        "description": "This would be a long description about the pet",
+        "gender": "Male",
+        "image_url": "https://i.pinimg.com/564x/05/cc/c3/05ccc3f1053723914313fe237da2b23d.jpg",
+        "is_adopted": false,
+        "name": "Mischief",
+        "owner": {
+          "name": "Harsh",
+          "image_url": "https://img.freepik.com/free-photo/smiling-middleaged-female-doctor-wearing-uniform-stethoscope-around-neck-looking-camera-showing-peace-sign-isolated-olive-green-background_141793-135877.jpg?t=st=1682483803~exp=1682484403~hmac=b29ad7fa1f49a7b2a545e1ae58710701c873f20ca687dd02b3e10661e9e071f9"
+        },
+        "price": 39.99,
+        "type": "cat"
+      }
+  ]
+}
